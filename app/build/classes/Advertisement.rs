@@ -1,0 +1,4 @@
+NewspaperAd
+Hoarding
+advertisement
+Advertisement

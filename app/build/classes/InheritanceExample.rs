@@ -1,0 +1,3 @@
+Parent
+InheritanceExample
+Child
